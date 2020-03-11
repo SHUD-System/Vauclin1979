@@ -1,6 +1,6 @@
 # Vauclin (1979) experiment with SHUD mdoel
 
-***SHUD - Solver of Hydrological Unstructured Domain.*** 
+***SHUD - Simulator of Hydrological Unstructured Domain.*** 
 
 Website: [www.shud.xyz](www.shud.xyz)
 
@@ -48,5 +48,5 @@ The R scripts include:
 
 ## Policy
 
-The script and data are open access for any purposes. I would be most grateful if you could send me an email (at lele.shu@gmail.com) when they helps you.
+The script and data are open access for any purposes. I would be most grateful if you could send me an email (at lele.shu@gmail.com) when they help you.
 
